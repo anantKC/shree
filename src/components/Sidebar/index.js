@@ -35,7 +35,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="#"
+            href="www.google.com"
             target="_blank"
             rel="noreferrer"
           >
@@ -44,7 +44,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="#"
+            href="www.google.com"
             target="_blank"
             rel="noreferrer"
           >
@@ -53,7 +53,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="#"
+            href="www.google.com"
             rel="noreferrer"
             target="_blank"
           >
